@@ -1,9 +1,7 @@
 package main
 
-import (
-	"fmt"
-)
+import "fiber-gorm-channel-ecommerce/application/commands"
 
 func main() {
-	fmt.Println("asas")
+	commands.Execute()
 }
