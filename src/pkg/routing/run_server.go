@@ -1,7 +1,7 @@
 package routing
 
 import (
-	"fiber-gorm-channel-ecommerce/pkg/configCore"
+	"fiber-gorm-channel-ecommerce/src/pkg/configCore"
 	"fmt"
 	"log"
 )

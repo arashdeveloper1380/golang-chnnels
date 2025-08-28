@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"fiber-gorm-channel-ecommerce/pkg/boot"
+	"fiber-gorm-channel-ecommerce/src/pkg/boot"
 	"github.com/spf13/cobra"
 )
 

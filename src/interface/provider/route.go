@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"fiber-gorm-channel-ecommerce/interface/rest"
+	"fiber-gorm-channel-ecommerce/src/interface/rest"
 	"github.com/gofiber/fiber/v2"
 )
 

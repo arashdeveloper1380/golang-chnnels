@@ -9,9 +9,9 @@ type Config struct {
 type DB struct {
 	Username string
 	Password string
-	DBName   string
 	Host     string
 	Port     string
+	Name     string
 }
 
 type Server struct {
